@@ -1,0 +1,40 @@
+Namespace(csv_name='predictions.csv', data_path='data/data_1l.csv', max_iter=10, memory='50', model_dir='output', num_threads='1', rank=100, reg_param=0.5)
+Total Time :  54.223448514938354
+Prediction Size:  6474
+RMSE=1.151294995497544
+MAP=0.012784192483227123
+Recall@5=0.31024039371569184
+Recall@10=0.35055704280576516
+Recall@50=0.47397176928693113
+Namespace(csv_name='predictions.csv', data_path='data/data_1l.csv', max_iter=10, memory='50', model_dir='output', num_threads='5', rank=100, reg_param=0.5)
+Total Time :  18.224826097488403
+Prediction Size:  6456
+RMSE=1.1389053736295816
+MAP=0.018500696518808344
+Recall@5=0.3028524548782027
+Recall@10=0.3609123227733602
+Recall@50=0.4759614113220701
+Namespace(csv_name='predictions.csv', data_path='data/data_1l.csv', max_iter=10, memory='50', model_dir='output', num_threads='10', rank=100, reg_param=0.5)
+Total Time :  13.649657249450684
+Prediction Size:  6456
+RMSE=1.1417357607083671
+MAP=0.016630584421351808
+Recall@5=0.302615802095166
+Recall@10=0.3655570280617611
+Recall@50=0.4781733260008534
+Namespace(csv_name='predictions.csv', data_path='data/data_1l.csv', max_iter=10, memory='50', model_dir='output', num_threads='15', rank=100, reg_param=0.5)
+Total Time :  13.68622088432312
+Prediction Size:  6456
+RMSE=1.1430745636832393
+MAP=0.00858138434509602
+Recall@5=0.3042408178720182
+Recall@10=0.3689382328723487
+Recall@50=0.4793856644008102
+Namespace(csv_name='predictions.csv', data_path='data/data_1l.csv', max_iter=10, memory='50', model_dir='output', num_threads='20', rank=100, reg_param=0.5)
+Total Time :  13.377102851867676
+Prediction Size:  6456
+RMSE=1.1401011272549875
+MAP=0.0153638450976896
+Recall@5=0.3063391392149439
+Recall@10=0.36314917990419693
+Recall@50=0.478779457636898

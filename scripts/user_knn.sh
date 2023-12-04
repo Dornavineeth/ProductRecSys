@@ -1,0 +1,1 @@
+python user_knn.py --num_threads 10 --model_dir output --data_path data/data_1l.csv

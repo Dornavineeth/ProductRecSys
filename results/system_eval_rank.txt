@@ -1,0 +1,48 @@
+Namespace(csv_name='predictions.csv', data_path='data/data_1l.csv', max_iter=10, memory='50', model_dir='output', num_threads='10', rank=1, reg_param=0.5)
+Total Time :  9.54745626449585
+Prediction Size:  6456
+RMSE=1.0143588230664287
+MAP=0.0
+Recall@5=6.310740880979426e-05
+Recall@10=6.310740880979426e-05
+Recall@50=0.004807732761159493
+Namespace(csv_name='predictions.csv', data_path='data/data_1l.csv', max_iter=10, memory='50', model_dir='output', num_threads='10', rank=5, reg_param=0.5)
+Total Time :  8.91361951828003
+Prediction Size:  6456
+RMSE=1.1181553342592367
+MAP=0.0009992006394884093
+Recall@5=0.014830241070301653
+Recall@10=0.03825886659093777
+Recall@50=0.3296409488950193
+Namespace(csv_name='predictions.csv', data_path='data/data_1l.csv', max_iter=10, memory='50', model_dir='output', num_threads='10', rank=10, reg_param=0.5)
+Total Time :  9.145703077316284
+Prediction Size:  6456
+RMSE=1.1312640473577
+MAP=0.012631999663427155
+Recall@5=0.1022024485674618
+Recall@10=0.25713113719550673
+Recall@50=0.4214605007723144
+Namespace(csv_name='predictions.csv', data_path='data/data_1l.csv', max_iter=10, memory='50', model_dir='output', num_threads='10', rank=20, reg_param=0.5)
+Total Time :  9.792493343353271
+Prediction Size:  6456
+RMSE=1.130972529493101
+MAP=0.008444560141360597
+Recall@5=0.23722074971601667
+Recall@10=0.2759813202069923
+Recall@50=0.46241991369310564
+Namespace(csv_name='predictions.csv', data_path='data/data_1l.csv', max_iter=10, memory='50', model_dir='output', num_threads='10', rank=40, reg_param=0.5)
+Total Time :  10.700869083404541
+Prediction Size:  6456
+RMSE=1.1402869425557551
+MAP=0.01894379233455341
+Recall@5=0.2966205982582355
+Recall@10=0.3577955680568327
+Recall@50=0.47353786144017124
+Namespace(csv_name='predictions.csv', data_path='data/data_1l.csv', max_iter=10, memory='50', model_dir='output', num_threads='10', rank=100, reg_param=0.5)
+Total Time :  12.930521488189697
+Prediction Size:  6456
+RMSE=1.139839330089953
+MAP=0.008960936513946737
+Recall@5=0.2677868231730405
+Recall@10=0.3695853843241197
+Recall@50=0.4832989998978261

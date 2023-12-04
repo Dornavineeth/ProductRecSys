@@ -1,0 +1,1 @@
+python model_tune.py --data_path data/data_1l.csv --memory 50 --num_threads 24 >> results/model_tune.txt

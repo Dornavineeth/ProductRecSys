@@ -1,0 +1,6 @@
+
+Namespace(data_path='data/data_1l.csv', memory='50', num_threads='24')
+rank:  1
+MaxIter:  10
+RegParam:  0.5
+Total Time :  541.27010679245
